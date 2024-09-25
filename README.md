@@ -1,13 +1,13 @@
 <h1>Welcome to My GitHub Profile 👋</h1>
 
+<img src="/github-metrics.svg" alt="Metrics">
+
 ### About Me
 <span style="font-size:8px;">- I am just a Linux and Windows user who loves French Bulldogs.</span><br />
 <span style="font-size:8px;">- Currently running <a href="https://archlinux.org/">Arch-Linux</a> with <a href="https://hyprland.org/">Hyprland</a></span><br />
 <span style="font-size:8px;">- Currently running Garuda Gaming Dragonized Gaming Edition with Plasma Wayland</span>
 
-<img src="/github-metrics.svg" alt="Metrics">
-
-## 🚀 Repository Highlights
+### 🚀 Repository Highlights
 
 <h3>Here are some of the things im working on</h3>
 
