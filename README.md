@@ -14,7 +14,7 @@
 
   <!-- GitHub Streak Stats Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
   </a>
 
   <!-- Repositories per Language Card -->
