@@ -23,19 +23,17 @@
   </a>
 </div>
 
-<!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=transparent&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true&layout=compact&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=transparent&hide_border=true&layout=compact&bg_color=00000000" />
 </a>
---->
 
 ## 🚀 Repository Highlights
 
