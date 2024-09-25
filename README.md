@@ -22,6 +22,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly
+
+
 </div>
 
 ## 🚀 Repository Highlights
