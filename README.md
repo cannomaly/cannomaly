@@ -13,8 +13,6 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 ## 🚀 Repository Highlights
 
 <h3>Here are some of the things im working on</h3>
