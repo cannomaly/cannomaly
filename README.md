@@ -1,3 +1,12 @@
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=dark&layout=compact)
+
+### 🔥 Streak Info
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark)
+
+
 <div align="center">
   <h1>Welcome to My GitHub Profile 👋</h1>
 
