@@ -8,3 +8,5 @@
 
 - Discord: @chompertf
 - IG: https://www.instagram.com/mpfrenchiesllc/
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark)
