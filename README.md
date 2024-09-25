@@ -26,11 +26,8 @@
 
 Here are some of my top projects:
 
-- [**Project 1**](https://github.com/cannomaly/project1): Brief description of your project.
-- [**Project 2**](https://github.com/cannomaly/project2): Brief description of your project.
-- [**Project 3**](https://github.com/cannomaly/project3): Brief description of your project.
-
-Check out more of my repositories [here](https://github.com/cannomaly?tab=repositories).
+- [**custom-archlinux**](https://github.com/cannomaly/project1): my personal setup of arch-linux
+- Check out more of my repositories [here](https://github.com/cannomaly?tab=repositories).
 
 ---
 
@@ -50,21 +47,8 @@ Check out more of my repositories [here](https://github.com/cannomaly?tab=reposi
 
 ## 📫 Get In Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
-
-
-<a href="https://github.com/cannomaly/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cannomaly" />
-</a>
-<a href="https://github.com/cannomaly/cannomaly">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cannomaly&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/cannomaly/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cannomaly&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/cannomaly/cannomaly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cannomaly&repo=convoychat" />
-</a>
+- Discord: [@chompertf](https://discord.gg/aVyAwTS3eN)
+- I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
+- Website: [mpfrenchiese.com](http://www.mpfrenchies.com0
+- Email: support@mpfrenchies.com
+- 
