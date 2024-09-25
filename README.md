@@ -19,7 +19,7 @@
 
   <!-- Repositories per Language Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&layout=compact&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&bg_color=00000000" />
   </a>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact)
