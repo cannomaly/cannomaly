@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (every 3 hours)
-  schedule: [{cron: "0 */24 * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
+      pull-requests: write
+      actions: read
+      checks: write
     concurrency:
       group: metrics-update
       cancel-in-progress: true
