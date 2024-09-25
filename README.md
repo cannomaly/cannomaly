@@ -2,13 +2,21 @@
 
 ## 🏆 GitHub Stats
 
-<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true" />
-</p>
+</a>
 
 ---
 
