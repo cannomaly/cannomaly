@@ -29,6 +29,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           persist-credentials: true  # Ensures that the GITHUB_TOKEN is available for pushing
+          fetch-depth: 0             # Fetch all history for all branches and tags
 
       # 2. Cache dependencies
       - name: Cache dependencies
@@ -78,4 +79,9 @@ jobs:
           git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m 'Update README with GitHub Metrics' || echo "No changes to commit"
-          git push
+          
+          # Pull the latest changes from the remote main branch and rebase
+          git pull --rebase origin main
+          
+          # Push the changes to the main branch
+          git push origin main
