@@ -2,8 +2,8 @@
 
 <img src="/github-metrics.svg" alt="Metrics">
 
-### 👨‍🦲 About Me
 - I am just a Linux and Windows user who loves French Bulldogs.
+### 👨‍🍳 About Me
 - Currently running <a href="https://archlinux.org/">Arch-Linux</a> with <a href="https://hyprland.org/">Hyprland</a>
 - Currently running Garuda Gaming Dragonized Gaming Edition with Plasma Wayland
 
