@@ -14,14 +14,6 @@
 
 ---
 
-## 📊 Contribution Activity
-
-<p align="center">
-  <img width="400" src="https://github-readme-activity-graph.cyclic.app/graph?username=cannomaly&bg_color=0d1117&color=ffffff&line=ffffff&point=00ffff&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🚀 Repository Highlights
 
 Here are some of my top projects:
@@ -50,5 +42,5 @@ Check out more of my repositories [here](https://github.com/cannomaly?tab=reposi
 
 - Discord: [@chompertf](https://discord.gg/aVyAwTS3eN)
 - I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
-- Website: [mpfrenchiese.com](http://www.mpfrenchies.com0
+- Website: [mpfrenchiese.com](http://www.mpfrenchies.com)
 - Email: support@mpfrenchies.com
