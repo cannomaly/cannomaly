@@ -1,53 +1,7 @@
 # 👋 Hi, I'm [Your Name]!
 
-💻 Passionate about software development and constantly learning new things in tech.
-
----
-
-### 📊 GitHub Stats and Streak
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=400" alt="GitHub Stats"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak"/>
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=dark&layout=compact&hide_border=true&card_width=400)
-
----
-
-### 🌟 Featured Projects
-
-- [**Project 1**](https://github.com/cannomaly/PROJECT_1): A brief description of your project.
-- [**Project 2**](https://github.com/cannomaly/PROJECT_2): Another project description.
-
----
-
-### 📬 Get In Touch
-
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn:** [YourLinkedIn](https://linkedin.com/in/cannomaly)
-- **Twitter:** [@YourTwitter](https://twitter.com/cannomaly)
-
-
-
-
-
-
-# 👋 Hi, I'm [Your Name]!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true&hide_title=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true)
 
 ---
 
