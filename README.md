@@ -2,7 +2,7 @@
 
 ## 🏆 GitHub Stats
 
-<p align="center">
+<p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true" />
 
