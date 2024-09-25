@@ -22,7 +22,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&theme=dark&hide_border=true&bg_color=00000000" />
+  </a>
 
 
 </div>
