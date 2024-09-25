@@ -3,12 +3,14 @@
 ## 🏆 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&layout=compact" />
 </a>
 
+<!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true&hide_border=true&layout=compact&card_width=320" />
 </a>
+--->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=320" />
