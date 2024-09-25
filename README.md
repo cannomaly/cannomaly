@@ -2,6 +2,10 @@
 
 <h1>Welcome to My GitHub Profile 👋</h1>
 
+### About
+<span style="font-size:8px;">- I'm a Linux and Windows user.</span>  
+<span style="font-size:8px;">- Currently running <a href="https://archlinux.org/">Arch-Linux</a> with <a href="https://hyprland.org/">Hyprland</a></span>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true" />
 </a>
