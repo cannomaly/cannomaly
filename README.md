@@ -6,7 +6,7 @@
 <span style="font-size:8px;">- Currently running Garuda Gaming Dragonized Gaming Edition with Plasma Wayland</span>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
 </a>
 
 <!---
