@@ -3,17 +3,17 @@
 
   <h3>🏆 GitHub Stats</h3>
   
-  <table style="border: none;">
+  <table border="0">
     <tr>
-      <td style="border: none;">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
       </td>
-      <td style="border: none;">
+      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=dark" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td style="border: none;">
+      <td colspan="2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark" alt="Top Languages" />
       </td>
     </tr>
