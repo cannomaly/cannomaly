@@ -24,14 +24,6 @@ jobs:
         with:
           path: ~/.cache
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
-      - name: Verify METRICS_TOKEN
-        run: |
-          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
-            echo "METRICS_TOKEN is not set!"
-            exit 1
-          else
-            echo "METRICS_TOKEN is set."
-          fi
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
