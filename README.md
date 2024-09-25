@@ -8,7 +8,7 @@
 <div style="display: flex; flex-direction: row;">
 
   <!-- Github Profile Card -->
-  [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&theme=ambient_gradient&hide_border=true&bg_color=00000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   
   <!-- GitHub Stats Card -->
