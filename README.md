@@ -13,12 +13,12 @@
   </a>
 
   <!-- GitHub Streak Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
   </a>
 
   <!-- Repositories per Language Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=transparent&hide_border=true&bg_color=00000000" />
   </a>
 </div>
