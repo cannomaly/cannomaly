@@ -8,22 +8,22 @@
 <div style="display: flex; flex-direction: row;">
   
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" />
   </a>
 
   <!-- GitHub Streak Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
   </a>
 
   <!-- Repositories per Language Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
 
   <!-- Repositories per Language Card (Compact Layout) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
   
