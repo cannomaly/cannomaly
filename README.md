@@ -1,16 +1,22 @@
 <div align="center">
   <h1>Welcome to My GitHub Profile 👋</h1>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=radical" alt="GitHub Streak" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-
+  
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
   <h3>🚀 Repository Highlights</h3>
 </div>
 
