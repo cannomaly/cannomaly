@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm [Your Name]!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=dark&layout=compact&hide_border=true&card_width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&card_width=400)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=400)
 
