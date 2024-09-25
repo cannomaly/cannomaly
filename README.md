@@ -21,6 +21,6 @@
 <a href="https://github.com/cannomaly/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cannomaly&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/cannomaly/convoychat">
+<a href="https://github.com/cannomaly/cannomaly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cannomaly&repo=convoychat" />
 </a>
