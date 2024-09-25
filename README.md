@@ -7,10 +7,6 @@
 
 <img src="/github-metrics.svg" alt="Metrics">
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
 ## 🚀 Repository Highlights
 
 <h3>Here are some of the things im working on</h3>
