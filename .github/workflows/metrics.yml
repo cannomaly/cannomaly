@@ -33,7 +33,7 @@ jobs:
             echo "METRICS_TOKEN is set."
           fi
       - name: Generate Metrics
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
