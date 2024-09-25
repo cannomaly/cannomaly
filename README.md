@@ -8,21 +8,17 @@
 <!--
 <div style="display: flex; flex-direction: row;">
 
-  <!-- Github Profile Card -->
   [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&hide_border=true&bg_color=00000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&theme=ambient_gradient&show_icons=true&hide_border=true&bg_color=00000000" />
   </a>
 
-  <!-- GitHub Streak Stats Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
   </a>
 
-  <!-- Repositories per Language Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
