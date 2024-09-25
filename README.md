@@ -22,7 +22,7 @@
 
 ## 🚀 Repository Highlights
 
-<h3>Here are some of my top projects:</h3>
+<h3>Here are some of the things im working on</h3>
 
 </div>
 
