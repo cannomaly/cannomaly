@@ -6,10 +6,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&layout=compact&card_width=500&theme=dark" alt="GitHub Streak" />
+        <img height=250 src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&layout=compact&card_width=500&theme=dark" alt="GitHub Streak" />
       </td>
       <td>
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&card_width=420&theme=dark" alt="Top Languages" />
+        <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&card_width=420&theme=dark" alt="Top Languages" />
       </td>
     </tr>
     <tr>
