@@ -7,26 +7,13 @@
 
 ![Metrics](/github-metrics.svg)
 
-<!--
-<div style="display: flex; flex-direction: row;">
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
-  [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&hide_border=true&bg_color=00000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
-  
-  <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&theme=ambient_gradient&show_icons=true&hide_border=true&bg_color=00000000" />
-  </a>
-
-  <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
-  </a>
-
-  <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&bg_color=00000000" />
-  </a>
-
-</div>
--->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## 🚀 Repository Highlights
 
