@@ -1,20 +1,9 @@
 
 # 👋 Hi, I'm [Your Name]!
-
-💻 Passionate about software development and constantly learning new things in tech.
-
 ---
-
-### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=dark&layout=compact&hide_border=true)
-
----
-
-### 🔥 Streak Info
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true)
 
 ---
