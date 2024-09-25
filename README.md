@@ -6,7 +6,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&card_width=320&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&card_width=420&theme=dark" alt="GitHub Streak" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark" alt="Top Languages" />
