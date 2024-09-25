@@ -1,3 +1,20 @@
+<div align="center">
+  <h1>Welcome to My GitHub Profile 👋</h1>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=radical" alt="GitHub Streak" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
+
+  <h3>🚀 Repository Highlights</h3>
+</div>
+
+
 # Welcome to My GitHub Profile 👋
 
 ## 🏆 GitHub Stats
@@ -56,27 +73,3 @@ Check out more of my repositories [here](https://github.com/cannomaly?tab=reposi
 - I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
 - Website: [mpfrenchiese.com](http://www.mpfrenchies.com)
 - Email: support@mpfrenchies.com
-
-
-
-<div align="center">
-  <h1>Welcome to My GitHub Profile 👋</h1>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <h3>🚀 Repository Highlights</h3>
-</div>
