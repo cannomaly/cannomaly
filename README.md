@@ -1,12 +1,3 @@
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=dark&layout=compact)
-
-### 🔥 Streak Info
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark)
-
-
 <div align="center">
   <h1>Welcome to My GitHub Profile 👋</h1>
 
@@ -15,14 +6,17 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=dark" alt="GitHub Streak" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark" alt="Top Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark" alt="Top Languages" />
       </td>
     </tr>
