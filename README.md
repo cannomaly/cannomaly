@@ -1,9 +1,9 @@
-##👋 Welcome to My GitHub Profile 👋
+## 👋 Welcome to My GitHub Profile 👋
 
 <img src="/github-metrics.svg" alt="Metrics">
 
-- I am just a Linux and Windows user who loves French Bulldogs.
 ### 👨‍🍳 About Me
+- I am just a Linux and Windows user who loves French Bulldogs.
 - Currently running <a href="https://archlinux.org/">Arch-Linux</a> with <a href="https://hyprland.org/">Hyprland</a>
 - Currently running Garuda Gaming Dragonized Gaming Edition with Plasma Wayland
 
