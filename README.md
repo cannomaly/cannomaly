@@ -3,7 +3,7 @@
 ## 🏆 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true&hide_border=true&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
