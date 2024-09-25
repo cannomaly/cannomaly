@@ -1,4 +1,4 @@
-## 👋 Welcome to My GitHub Profile 👋
+### 👋 Welcome to My GitHub Profile 👋
 
 <img src="/github-metrics.svg" alt="Metrics">
 
