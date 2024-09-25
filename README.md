@@ -7,18 +7,10 @@
 - Currently running <a href="https://archlinux.org/">Arch-Linux</a> with <a href="https://hyprland.org/">Hyprland</a>
 - Currently running Garuda Gaming Dragonized Gaming Edition with Plasma Wayland
 
-### 🚀 Repository Highlights
-
-Here are some of the things im working on
-
+### 🚀 Here are some of the things im working on
 - [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): Just my personal customization of my arch-linux installed with gaming support.
 
-Check out more of my repositories [here](https://github.com/cannomaly?tab=repositories).
-
----
-
 ### 📫 Get In Touch
-
 - Discord: [@chompertf](https://discord.gg/aVyAwTS3eN)
 - I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
 - Website: [mpfrenchiese.com](http://www.mpfrenchies.com)
