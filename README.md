@@ -9,7 +9,7 @@
   
   <!-- GitHub Stats Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&hide_border=true&bg_color=00000000" />
   </a>
 
   <!-- GitHub Streak Stats Card -->
@@ -19,7 +19,7 @@
 
   <!-- Repositories per Language Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
 
 </div>
