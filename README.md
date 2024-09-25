@@ -26,7 +26,7 @@
 
 Here are some of my top projects:
 
-- [**custom-archlinux**](https://github.com/cannomaly/project1): my personal setup of arch-linux
+- [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): my personal setup of arch-linux
 - Check out more of my repositories [here](https://github.com/cannomaly?tab=repositories).
 
 ---
