@@ -24,12 +24,20 @@ jobs:
       group: metrics-update
       cancel-in-progress: true
     steps:
+      # 1. Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # Ensures that the GITHUB_TOKEN is available for pushing
+
+      # 2. Cache dependencies
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
           path: ~/.cache
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
 
+      # 3. Verify METRICS_TOKEN
       - name: Verify METRICS_TOKEN
         run: |
           if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
@@ -39,6 +47,7 @@ jobs:
             echo "METRICS_TOKEN is set."
           fi
 
+      # 4. Generate Metrics
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -62,8 +71,11 @@ jobs:
           plugin_lines_sections: base
           plugin_traffic: true
 
+      # 5. Commit & Push changes
       - name: Commit & Push changes
         run: |
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m 'Update README with GitHub Metrics' || echo "No changes to commit"
           git push
