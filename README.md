@@ -6,6 +6,11 @@
 <span style="font-size:8px;">- Currently running Garuda Gaming Dragonized Gaming Edition with Plasma Wayland</span>
 
 <div style="display: flex; flex-direction: row;">
+
+  <!-- Github Profile Card -->
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&theme=ambient_gradient&hide_border=true&bg_color=00000000" />
+  </a>
   
   <!-- GitHub Stats Card -->
   <a href="https://github.com/cannomaly/github-readme-stats">
@@ -22,9 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&theme=ambient_gradient&hide_border=true&layout=compact&bg_color=00000000" />
   </a>
 
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cannomaly&theme=dark&hide_border=true&bg_color=00000000" />
-  </a>
+  
 
 
 </div>
