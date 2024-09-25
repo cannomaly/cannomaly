@@ -9,7 +9,7 @@
 
 ### 🚀 Repository Highlights
 
-<h3>Here are some of the things im working on</h3>
+Here are some of the things im working on
 
 - [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): Just my personal customization of my arch-linux installed with gaming support.
 
