@@ -16,7 +16,7 @@
 
 Here are some of my top projects:
 
-- [**Project 1**](https://github.com/cannomaly/project1): Brief description of your project.
+- [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): Just my personal customization of my arch-linux installed with gaming support.
 
 Check out more of my repositories [here](https://github.com/cannomaly?tab=repositories).
 
