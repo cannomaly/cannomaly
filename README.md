@@ -17,7 +17,7 @@ Check out more of my repositories [here](https://github.com/cannomaly?tab=reposi
 
 ---
 
-## 📫 Get In Touch
+### 📫 Get In Touch
 
 - Discord: [@chompertf](https://discord.gg/aVyAwTS3eN)
 - I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
