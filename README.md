@@ -16,9 +16,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark" alt="Top Languages" />
-      </td>
     </tr>
   </table>
 </div>
