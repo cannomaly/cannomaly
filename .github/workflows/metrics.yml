@@ -4,7 +4,7 @@ name: Metrics
 on:
   # Schedule updates (every 3 hours)
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */1 * * *"
   # Allows manual triggering of the workflow
   workflow_dispatch:
   # Triggers the workflow on pushes to master or main branches
