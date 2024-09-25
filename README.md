@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm [Your Name]!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&card_width=400)
 
 ---
