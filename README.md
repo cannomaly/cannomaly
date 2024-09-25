@@ -1,4 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+<h1>Welcome to My GitHub Profile 👋</h1>
+
+<h3>🏆 GitHub Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=true" />
