@@ -24,6 +24,8 @@
 
 Here are some of my top projects:
 
+</div>
+
 - [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): Just my personal customization of my arch-linux installed with gaming support.
 
 Check out more of my repositories [here](https://github.com/cannomaly?tab=repositories).
@@ -36,5 +38,3 @@ Check out more of my repositories [here](https://github.com/cannomaly?tab=reposi
 - I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
 - Website: [mpfrenchiese.com](http://www.mpfrenchies.com)
 - Email: support@mpfrenchies.com
-
-</div>
