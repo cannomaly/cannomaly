@@ -9,10 +9,11 @@
 <table>
   <tr>
     <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=400" alt="GitHub Stats"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=400" alt="GitHub Stats"/>
+      
     </td>
   </tr>
 </table>
