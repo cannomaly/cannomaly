@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true&layout=compact&card_width=320" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true&layout=compact" />
 </a>
 
 ---
