@@ -4,15 +4,15 @@
   <table style="border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=radical" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cannomaly&theme=dark" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cannomaly&layout=compact&theme=dark" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -33,7 +33,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cannomaly&show_icons=true&theme=dark&count_private=true&hide_border=true&layout=compact&card_width=320" />
 </a>
---->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cannomaly&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=320" />
@@ -46,6 +45,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cannomaly&theme=dark&hide_border=true&layout=compact" />
 </a>
+--->
 
 ---
 
