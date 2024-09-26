@@ -10,7 +10,7 @@
 ### 🧠 Here are some of the things im working on
 - [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): Just my personal customization of my arch-linux installed with gaming support.
 - [**my-bots**](https://github.com/cannomaly/my-bots): my personal bots I run on my discord run.
-- [**My Scripts**](https://github.com/cannomaly/custom-archlinux): Unreal Engine Debugger
+- [**UE Debuggerr**](https://github.com/cannomaly/UE_Debugger): Unreal Engine Debugger
 
 ### 📫 Get In Touch
 - Discord: [Maximal Primal Frenchies LLC](https://discord.gg/aVyAwTS3eN)
