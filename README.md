@@ -9,9 +9,10 @@
 
 ### 🧠 Here are some of the things im working on
 - [**custom-archlinux**](https://github.com/cannomaly/custom-archlinux): Just my personal customization of my arch-linux installed with gaming support.
+- [**my-bots**](https://github.com/cannomaly/custom-archlinux): my personal bots I run on my discord run.
 
 ### 📫 Get In Touch
-- Discord: [@chompertf](https://discord.gg/aVyAwTS3eN)
+- Discord: [Maximal Primal Frenchies LLC](https://discord.gg/aVyAwTS3eN)
 - I.G: [@mpfrenchiesllc](https://www.instagram.com/mpfrenchiesllc/)
 - Website: [mpfrenchiese.com](http://www.mpfrenchies.com)
 - Email: support@mpfrenchies.com
